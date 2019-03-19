@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--Muda a cor do botão ao ser pressionado-->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <stroke android:width="3dp"
+                android:color="#A5A5A5"/>
+        </shape>
+    </item>
+
+    <!--Muda a cor do botão ao ser pressionado-->
+    <item  android:state_focused="true">
+        <shape android:shape="rectangle">
+            <stroke android:width="3dp"
+                android:color="#A5A5A5"/>
+        </shape>
+    </item>
+
+    <!--Botão normal-->
+    <item>
+        <shape android:shape="rectangle">
+            <stroke android:width="3dp"
+                android:color="#ECECEC" />
+        </shape>
+    </item>
+</selector>

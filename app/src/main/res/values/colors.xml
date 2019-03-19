@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_button_C">#D23137</color>
+    <color name="color_button_igual">#5CD331</color>
+    <color name="colorPrimary">#949494</color>
+    <color name="color_text">@android:color/holo_blue_dark</color>
+    <color name="color_button_text">#FFFFFF</color>
+
+
+</resources>

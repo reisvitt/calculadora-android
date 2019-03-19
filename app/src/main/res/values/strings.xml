@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="button">Button</string>
+    <string name="button1">Button</string>
+    <string name="menosmais">-/+</string>
+    <string name="calculus">Calculus</string>
+    <string name="_3">3</string>
+    <string name="_6">6</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="barra">/</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="asterisco">*</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="menos">-</string>
+    <string name="_0">0</string>
+    <string name="ponto">.</string>
+    <string name="mais">+</string>
+    <string name="c">C</string>
+    <string name="igual">=</string>
+    <string name="tema_dark">Tema Dark</string>
+    <string name="tema_ligth">Tema Ligth</string>
+    <string name="tema_light">Tema Light</string>
+    <string name="del">del</string>
+    <string name="textview">TextView</string>
+</resources>
